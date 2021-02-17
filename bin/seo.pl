@@ -10,6 +10,10 @@ use 5.010;
 # don't take them seriously.
 # For now.
 
+# References:
+# https://support.google.com/webmasters/answer/99170?hl=en
+# 
+
 
 use LWP::Simple qw(get);
 use Path::Tiny qw(path);
